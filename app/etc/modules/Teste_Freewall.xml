@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+	<config>
+		<modules>
+			<Teste_Freewall>
+				<active>true</active>
+				<codePool>local</codePool>
+			</Teste_Freewall>
+		</modules>
+	</config>
